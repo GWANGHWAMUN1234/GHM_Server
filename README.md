@@ -1,4 +1,4 @@
-User_ID: 09 | Nick: KEOZ | Warning: 0 | Level: 정 1급 | Email: min19086@naver.com
+User_ID: 09 | Nick: KEOZ | Warning: 0 | Level: 정 5급(총) | Email: min19086@naver.com
 User_ID: 101 | Nick: aboukatoop| Warning: 0 | Level: 정 3급 | Email: susuna0325@gmail.com
 User_ID: 116 | Nick: O.o| Warning: 0 | Level: 준 3급 | Email: haminsoo1231@naver.com
 
